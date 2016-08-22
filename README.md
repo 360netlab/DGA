@@ -5,6 +5,7 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Domain Looks Like | MD5 | Source | Additional Info
 ---|---|---|---|---
+[7](https://github.com/360netlab/DGA/issues/7) | pmkodzc.in<br>prmgxr.name<br>qewrpffwv.org | None  | PDNS  |  Done
 [6](https://github.com/360netlab/DGA/issues/6) | iieqqoytgohjytil.info<br>kpjprkqhsmqrmsj.org<br>njpqlupthfhwxqns.com | 9690bee17e9d4b83ae584f5d91849a6e  | VT  |  NCR
 [5](https://github.com/360netlab/DGA/issues/5) | zizybilyxu.com<br>gikupilah.com<br>muhopohucyqu.com | 11846ad0916e66a25defcf41b676d0f7  | VT  |  NCR
 [4](https://github.com/360netlab/DGA/issues/4) | acgaaqsovipeos.ddns.net<br>echufivoci.ddns.net<br>kaukihviavfui.ddns.net | 08232e7b2f4d1753bc872a100673b05a  | 360 Sandbox  |  Done<br> DGA of symmi
