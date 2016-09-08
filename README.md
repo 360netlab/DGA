@@ -5,6 +5,7 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Domain Looks Like | MD5 | Source | Additional Info
 ---|---|---|---|---
+[11](https://github.com/360netlab/DGA/issues/11) | enlwmlrnnrwghtzo.info<br>fjshqslnctjjih.com<br>fokilqnsjounrky.net | 6d0f3196e91f8ae640791d5bb0d466b7 | VT  |  NCR
 [10](https://github.com/360netlab/DGA/issues/10) | xaxymivirocis.com<br>vuforazaj.com<br>fyzybopufanuj.com | 2cb2cc33f56f0d6bada25dad5a18c767 | VT  |  NCR
 [9](https://github.com/360netlab/DGA/issues/9) | bdttlsviqfkt.club<br>bggtbbxiffgp.pw<br>bjxphhqqrinp.us | 2acc3bfcde1bc81af00186d4ed977ffa | VT  |  Done<br>New seed of Tinba
 [8](https://github.com/360netlab/DGA/issues/8) | cgyck.museum<br>cimumks.nu<br>fyyayyyoc.vg | baf268f88c0bf8501efe2cdeee712ce1 | VT  |  NCR
