@@ -5,6 +5,9 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Domain Looks Like | MD5 | Source | Additional Info
 ---|---|---|---|---
+[14](https://github.com/360netlab/DGA/issues/14) | bivobakumuv.com<br>jeryqitego.com<br>kakukunucatih.com | 94d31d4606a0ddf45a2a3da37ab67304 | VT  |  NCR
+[13](https://github.com/360netlab/DGA/issues/13) | crzhpdbeovb.mp<br>dlkhzl.ph<br>dsuzm.tv | 896d8c518470635f058139ece63b34b1 | VT  |  NCR
+[12](https://github.com/360netlab/DGA/issues/12) | aecsztodxcauezvwv.com<br>aecsztodxcauezvwv.com<br>qmeuxytpxbf.com | 8dce388365ba4ddd516a744c677d41e9 | VT  |  NCR
 [11](https://github.com/360netlab/DGA/issues/11) | enlwmlrnnrwghtzo.info<br>fjshqslnctjjih.com<br>fokilqnsjounrky.net | 6d0f3196e91f8ae640791d5bb0d466b7 | VT  |  NCR
 [10](https://github.com/360netlab/DGA/issues/10) | xaxymivirocis.com<br>vuforazaj.com<br>fyzybopufanuj.com | 2cb2cc33f56f0d6bada25dad5a18c767 | VT  |  NCR
 [9](https://github.com/360netlab/DGA/issues/9) | bdttlsviqfkt.club<br>bggtbbxiffgp.pw<br>bjxphhqqrinp.us | 2acc3bfcde1bc81af00186d4ed977ffa | VT  |  Done<br>New seed of Tinba
