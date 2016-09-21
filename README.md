@@ -5,6 +5,8 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Status
 ---|---
+[21](https://github.com/360netlab/DGA/issues/21) | Done<br>New seed of Tinba
+[20](https://github.com/360netlab/DGA/issues/20) | NCR
 [19](https://github.com/360netlab/DGA/issues/19) | NCR
 [18](https://github.com/360netlab/DGA/issues/18) | NCR
 [17](https://github.com/360netlab/DGA/issues/17) | NCR
