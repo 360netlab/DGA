@@ -5,7 +5,7 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Status
 ---|---
-[27](https://github.com/360netlab/DGA/issues/27) | DOne<br>New seed of Ranbyus
+[27](https://github.com/360netlab/DGA/issues/27) | Done<br>New seed of Ranbyus
 [26](https://github.com/360netlab/DGA/issues/26) | NCR
 [25](https://github.com/360netlab/DGA/issues/25) | Done<br>New seed of Banjori
 [24](https://github.com/360netlab/DGA/issues/24) | NCR
@@ -21,7 +21,7 @@ Link | Status
 [14](https://github.com/360netlab/DGA/issues/14) | NCR
 [13](https://github.com/360netlab/DGA/issues/13) | NCR
 [12](https://github.com/360netlab/DGA/issues/12) | NCR
-[11](https://github.com/360netlab/DGA/issues/11) | NCR
+[11](https://github.com/360netlab/DGA/issues/11) | Done<br>New seed of Murofet
 [10](https://github.com/360netlab/DGA/issues/10) | NCR
 [9](https://github.com/360netlab/DGA/issues/9) | Done<br>New seed of Tinba
 [8](https://github.com/360netlab/DGA/issues/8) | NCR
