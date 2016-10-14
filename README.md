@@ -29,6 +29,6 @@ Link | Status
 [6](https://github.com/360netlab/DGA/issues/6) | NCR
 [5](https://github.com/360netlab/DGA/issues/5) | NCR
 [4](https://github.com/360netlab/DGA/issues/4) | Done<br> DGA of symmi
-[3](https://github.com/360netlab/DGA/issues/3) | NCR
+[3](https://github.com/360netlab/DGA/issues/3) | Done<br>New seed of simda
 [2](https://github.com/360netlab/DGA/issues/2) | NCR
 [1](https://github.com/360netlab/DGA/issues/1) | NCR
