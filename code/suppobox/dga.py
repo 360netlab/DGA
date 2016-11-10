@@ -21,7 +21,7 @@ def generate_domains(time_, word_list):
         time_ = time.time()
     seed = int(time_) >> 9
     tld_ru = False
-    for c in range(85):
+    for c in range(614):
         nr = seed
         res = 16*[0]
         shuffle = [3, 9, 13, 6, 2, 4, 11, 7, 14, 1, 10, 5, 8, 12, 0]
