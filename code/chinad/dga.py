@@ -19,6 +19,7 @@ def dga(date, nr, length):
         seed[1] = date.month & 0xFF
         seed[2] = date.day & 0xFF
         seed[3] = index & 0xFF
+        seed[4] = (index >> 8) & 0xFF
 
         seed_str = ""
         for i in range(16):
