@@ -12,26 +12,26 @@ Link | Status
 [27](https://github.com/360netlab/DGA/issues/27) | Done<br>New seed of Ranbyus
 [26](https://github.com/360netlab/DGA/issues/26) | Closed<br>The same as #11
 [25](https://github.com/360netlab/DGA/issues/25) | Done<br>New seed of Banjori
-[24](https://github.com/360netlab/DGA/issues/24) | NCR
-[23](https://github.com/360netlab/DGA/issues/23) | NCR
-[22](https://github.com/360netlab/DGA/issues/22) | NCR
+[24](https://github.com/360netlab/DGA/issues/24) | Not DGA
+[23](https://github.com/360netlab/DGA/issues/23) | Not DGA
+[22](https://github.com/360netlab/DGA/issues/22) | Not DGA
 [21](https://github.com/360netlab/DGA/issues/21) | Done<br>New seed of Tinba
-[20](https://github.com/360netlab/DGA/issues/20) | NCR
-[19](https://github.com/360netlab/DGA/issues/19) | NCR
-[18](https://github.com/360netlab/DGA/issues/18) | NCR
-[17](https://github.com/360netlab/DGA/issues/17) | NCR
+[20](https://github.com/360netlab/DGA/issues/20) | Not DGA
+[19](https://github.com/360netlab/DGA/issues/19) | Not DGA
+[18](https://github.com/360netlab/DGA/issues/18) | Not DGA
+[17](https://github.com/360netlab/DGA/issues/17) | Not DGA
 [16](https://github.com/360netlab/DGA/issues/16) | NCR
 [15](https://github.com/360netlab/DGA/issues/15) | Done<br>New seed of Tinba
 [14](https://github.com/360netlab/DGA/issues/14) | NCR
 [13](https://github.com/360netlab/DGA/issues/13) | NCR
 [12](https://github.com/360netlab/DGA/issues/12) | NCR
 [11](https://github.com/360netlab/DGA/issues/11) | Done<br>New seed of Murofet
-[10](https://github.com/360netlab/DGA/issues/10) | NCR
+[10](https://github.com/360netlab/DGA/issues/10) | Not DGA
 [9](https://github.com/360netlab/DGA/issues/9) | Done<br>New seed of Tinba
 [8](https://github.com/360netlab/DGA/issues/8) | NCR
 [7](https://github.com/360netlab/DGA/issues/7) | NCR
 [6](https://github.com/360netlab/DGA/issues/6) | NCR
-[5](https://github.com/360netlab/DGA/issues/5) | Hardcoded domain
+[5](https://github.com/360netlab/DGA/issues/5) | Not DGA
 [4](https://github.com/360netlab/DGA/issues/4) | Done<br>New seed of Symmi
 [3](https://github.com/360netlab/DGA/issues/3) | Done<br>New seed of Simda
 [2](https://github.com/360netlab/DGA/issues/2) | NCR
