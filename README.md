@@ -5,6 +5,8 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Status
 ---|---
+[33](https://github.com/360netlab/DGA/issues/33) | Benign<br>TcpRoute2
+[32](https://github.com/360netlab/DGA/issues/32) | Benign<br>Chrome
 [31](https://github.com/360netlab/DGA/issues/31) | Done<br>New DGA: Vidro
 [30](https://github.com/360netlab/DGA/issues/30) | Done<br>New seed of Murofet
 [29](https://github.com/360netlab/DGA/issues/29) | Done<br>Suppobox use new TLDs
