@@ -5,6 +5,11 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Status
 ---|---
+[39](https://github.com/360netlab/DGA/issues/39) | Done<br>New seeds of Banjori
+[38](https://github.com/360netlab/DGA/issues/38) | Done<br>New DGA: XshellGhost
+[37](https://github.com/360netlab/DGA/issues/37) | Not DGA
+[36](https://github.com/360netlab/DGA/issues/36) | Not DGA
+[35](https://github.com/360netlab/DGA/issues/35) | Not DGA
 [34](https://github.com/360netlab/DGA/issues/34) | Done<br>New seed of Padcrypt
 [33](https://github.com/360netlab/DGA/issues/33) | Benign<br>TcpRoute2
 [32](https://github.com/360netlab/DGA/issues/32) | Benign<br>Chrome
