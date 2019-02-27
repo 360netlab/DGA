@@ -5,6 +5,8 @@ Suspicious DGA from [PassiveDNS.cn](https://passivedns.cn/) and 360+VT Sandbox.
 
 Link | Status
 ---|---
+[50](https://github.com/360netlab/DGA/issues/50) | Benign DGA of Telegram, an Android APK related DGA
+[49](https://github.com/360netlab/DGA/issues/49) | The DGA of MyDoom
 [48](https://github.com/360netlab/DGA/issues/48) | An unpredictable DGA
 [39](https://github.com/360netlab/DGA/issues/39) | Done<br>New seeds of Banjori
 [38](https://github.com/360netlab/DGA/issues/38) | Done<br>New DGA: XshellGhost
