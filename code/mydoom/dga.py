@@ -35,7 +35,7 @@ def dga(date, seed, nr, tlds):
 
             m = m / len_sld
 
-        print sld + '.' + tld
+        print(sld + '.' + tld)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()

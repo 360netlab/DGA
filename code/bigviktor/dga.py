@@ -421,7 +421,7 @@ class domain_generator:
     
     def generate_domains(self, nr):
         for d in range(nr):
-            print self.generate_domain()
+            print(self.generate_domain())
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

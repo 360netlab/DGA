@@ -11,7 +11,7 @@ def rand(seed):
 def dga(epoch, nr):
     tlds = ['dyndns.org', 'com', 'net']
     seed_init = 0x1e240 * \
-           (((epoch-0x4BEFB280)<<32)/(0x93a80<<32)+0x3ed)
+           (((epoch-0x4BEFB280)<<32)//(0x93a80<<32)+0x3ed)
 
     for i in range(nr):
         seed = i % 100 + seed_init
@@ -24,7 +24,7 @@ def dga(epoch, nr):
             domain += chr(r % 26 + ord('a'))
 
         domain += '.' + tlds[i % 3]
-        print domain
+        print(domain)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
