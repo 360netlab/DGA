@@ -20,7 +20,7 @@ def dga(year, month, nr, tlds):
     sld = 'ab%x%x' %(r2 * r3, r1)
 
     domain = sld + '.' + tlds[0]
-    print domain
+    print(domain)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()

@@ -12,16 +12,16 @@ def dga(seed, nr, tlds):
         #print seed_str
 
         s = hashlib.md5()
-        s.update(seed_str)
+        s.update(seed_str.encode('latin1'))
         x = s.digest()
 
         domain = ""
         for j in range(5):
-            domain += "%02x" %(ord(x[j]))
+            domain += "%02x" %(x[j])
 
         domain += '.' + tlds[i % 6]
 
-        print domain
+        print(domain)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()

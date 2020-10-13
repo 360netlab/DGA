@@ -10,15 +10,15 @@ def dga(year, month, nr, tlds):
     _year = c_uint(year)
     _month = c_uint(month)
     seed = c_uint(0)
-    print _year.value
-    print _month.value
+    print(_year.value)
+    print(_month.value)
 
     seed.value = 0x90422a3a * _month.value
-    print "%x" %(seed.value)
+    print("%x" %(seed.value))
     seed.value -= 0x39d06f76 * _year.value
-    print "%x" %(seed.value)
+    print("%x" %(seed.value))
     seed.value -= 0x67b7fc6f
-    print "%x" %(seed.value)
+    print("%x" %(seed.value))
     
     sld_len = seed.value % 6 + 10
     sld = ''
@@ -27,7 +27,7 @@ def dga(year, month, nr, tlds):
         seed.value = 29 * seed.value + 19
 
     domain = sld + '.' + tlds[0]
-    print domain
+    print(domain)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
