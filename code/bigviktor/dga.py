@@ -372,7 +372,7 @@ class domain_generator:
         seed_str = time.strftime("%b %Y 00:00", timea)
 
         s = hashlib.sha256()
-        s.update(seed_str)
+        s.update(seed_str.encode('utf-8'))
         seed = int(s.hexdigest()[:8], 16)
 
         return seed
